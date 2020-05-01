@@ -18,5 +18,5 @@ Run **lab**
 jupyter lab
 ```
 
-[1]: https://medium.com/phi-skills
+[1]: https://medium.com/phi-skills/event-driven-data-preprocessing-798da0428759
 [2]: https://github.com/victornitu/phi-architecture-example
